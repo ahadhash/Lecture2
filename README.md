@@ -1,1 +1,1 @@
-# Lecture2
+# cosc123_demo
